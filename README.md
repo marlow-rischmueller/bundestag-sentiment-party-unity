@@ -141,7 +141,7 @@ Place all `.xml` files into the `data_wp20/` directory. The notebook expects 139
 
 ### 4 · Run the notebook
 
-Open `data_science_project.ipynb` and run all cells from top to bottom. The notebook is structured as a linear pipeline:
+Open `sentiment_analysis_pipeline.ipynb` and run all cells from top to bottom. The notebook is structured as a linear pipeline:
 
 1. Dependency installation & imports
 2. Stopword and sentiment lexicon loading
